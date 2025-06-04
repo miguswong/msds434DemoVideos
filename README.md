@@ -1,4 +1,6 @@
-Videos were too large to directly place in the repository and have been compiled into a Panopto Folder. They can be accessed [here](https://northwestern.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=2860cad0-d575-4c5b-a47d-b2f10135cf77)
+Videos were too large to directly place in the repository and have been compiled into a Panopto Folder. 
+
+[Panopto Video Folder](https://northwestern.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=2860cad0-d575-4c5b-a47d-b2f10135cf77)
 
 **Week 1([AWS+GCP](https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e4bc090a-98be-4955-8af0-b2b30122e949))**  
 **Week 2([AWS](https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ec16dc77-6d7a-416f-a5a5-b2b900f35bb9)/[GCP](https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=db7a8017-d8fd-4eaf-a929-b2b901179007))**  
