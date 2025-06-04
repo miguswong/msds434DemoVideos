@@ -1,1 +1,1 @@
-
+Videos were too large to directly place in the repository and have been compiled into a Panopto Folder. They can be accessed [here](https://northwestern.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=2860cad0-d575-4c5b-a47d-b2f10135cf77)
